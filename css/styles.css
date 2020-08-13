@@ -1,0 +1,31 @@
+body{
+    background-color: lavender;
+}
+.column{
+    margin: 5px;
+    padding: 5px;
+}
+.column1{
+    width: 400px;
+    float: left;
+    padding: 2px;
+    margin: 2px;
+    border: 2px solid green;
+    background-color: lavenderblush;
+}
+.column2{
+    width: 400px;
+    float: left;
+    margin: 2px;
+    
+    border: 2px solid green;
+    background-color: lemonchiffon;
+}
+.column3{
+    width: 400px;
+    float: left;
+    margin: 2px;
+    
+    border: 2px solid green;
+    background-color: lightcyan;
+}
