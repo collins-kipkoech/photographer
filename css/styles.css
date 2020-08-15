@@ -29,3 +29,7 @@ body{
     border: 2px solid green;
     background-color: lightcyan;
 }
+h1{
+    color: blue;
+    text-align: center;
+}
